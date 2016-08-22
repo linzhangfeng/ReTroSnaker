@@ -1,7 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a4422a-6c45-4cb4-9e56-046e2f1812a8" name="Default" comment="" />
+    <list default="true" id="29a4422a-6c45-4cb4-9e56-046e2f1812a8" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\.idea\PandaRun.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\.idea\dictionaries\linzhangfeng.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\config.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\about-btn-s.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\about-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\bird.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\bird.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\circle_particle.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\disable.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\done.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\enable.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\enemy.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\enemy.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\enemy.pvr.ccz" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\far-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\far-bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\fire.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\font\record-lemon.fnt" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\font\record-lemon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\game-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\gold.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\gold.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\info-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\magnet-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\magnet.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\magnet.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\magnetEffect.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\maxon-team.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\menu-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\mode-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\mode1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\mode2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\near-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\open-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\panda.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\panda.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\particleTexture.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\platform.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\platform.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\platform1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\play-btn-s.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\play-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\rank-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\rank-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\redshoes-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\redshoes.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\redshoes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\score-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\set-btn-s.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\set-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\shoes-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\shoes.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\shoes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\alert.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\bg.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\bg1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\button.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\eat_gold.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\eat_gold1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\enemyDied.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\game_over.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\jump.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\landing.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\lose_prop.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\magnet.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\menu.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\opening.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\shopping.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\speedup.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\spring.mp3" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\sound\stars_particle.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\speedShoes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\spring.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\spring.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\stars.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\stars_particle.plist" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\start-btn-normal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\start-btn-selected.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\store-btn-s.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\store-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\about-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\back-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\buy-30.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\buy-50.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\distance.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\energy-bar.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\gold-bar.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\high-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\low-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\magnet-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\off-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\on-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\progress.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\redshoes-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\reload.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\score-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\set-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\shoes-prop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\soundOffBtn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\soundOnBtn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\store-board.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\store.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\ui\store1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\res\wait.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\context.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\effect\magnet-effect.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\app-menu-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-background-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-menu-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-mode-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-opening-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\game-over-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\hub-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\info-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\network-hub-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\network-master-play-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\network-slave-play-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\play-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\rank-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\repeat-background-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\statistics-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\layer\wait-layer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\bird-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\bird.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\double-jump-shoe.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\frog-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\frog.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\gold-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\gold.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\hero.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\magnet-cloth.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\magnet-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\magnet.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\object-io-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\object-random-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\object-shaped-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\platform-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\platform.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\player.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\redshoes-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\redshoes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\shoes-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\shoes.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\speed-up-shoe.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\spring-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\role\spring.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\game-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\info-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\network-play-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\play-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\splash-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\scene\welcome-scene.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\util\simple-touch-recognizer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\linzhangfeng\games\ReTroSnaker\src\util\statistics.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/HelloWorld.png" afterPath="$PROJECT_DIR$/res/HelloWorld.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resource.js" afterPath="$PROJECT_DIR$/src/resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PandaRun.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,97 +187,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="game-mode-layer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layer/game-mode-layer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="38" />
+              <caret line="63" column="41" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game-scene.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scene/game-scene.js">
+      <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="25" />
+            <state vertical-scroll-proportion="-2.1">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="play-scene.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scene/play-scene.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
-              <folding />
-            </state>
+      <file leaf-file-name="CloseSelected.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/CloseSelected.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="play-layer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/layer/play-layer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8932384">
-              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-              <folding />
-            </state>
+      <file leaf-file-name="CloseNormal.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/CloseNormal.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeat-background-layer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layer/repeat-background-layer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.40625">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="splash-scene.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scene/splash-scene.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game-opening-layer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layer/game-opening-layer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resource.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resource.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.16129">
-              <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-              <folding />
-            </state>
+      <file leaf-file-name="bg.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/bg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,74 +303,28 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
+              <option name="myItemId" value="ReTroSnaker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
+              <option name="myItemId" value="ReTroSnaker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scene" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PandaRun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="ReTroSnaker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,8 +337,11 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PandaRun/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ReTroSnaker/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -305,12 +382,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -328,10 +407,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17941953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2005277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -340,7 +419,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24985093" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24426605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29013762" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -385,18 +464,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/scene/splash-scene.js">
+    <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-opening-layer.js">
+    <entry file="file://$PROJECT_DIR$/project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="26" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -404,16 +499,57 @@
     <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenuGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AboutGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/context.js">
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,14 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-menu-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,71 +575,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/splash-scene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-opening-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="196" column="28" selection-start-line="196" selection-start-column="28" selection-end-line="196" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/bird.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/about-btn-s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/about-btn.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/game-logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/gold.plist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/HelloWorld.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/info-board.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -530,61 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/role/bird-generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/role/player.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/role/platform.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/AUTHORS.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/info-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/network-master-play-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20095694">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,15 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="4.754386">
           <caret line="1280" column="16" selection-start-line="1280" selection-start-column="16" selection-end-line="1280" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/app-menu-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="232" column="24" selection-start-line="232" selection-start-column="24" selection-end-line="232" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,144 +629,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/info-scene.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="249" column="24" selection-start-line="249" selection-start-column="24" selection-end-line="249" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AboutGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/welcome-scene.js">
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/network-play-scene.js">
+    <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-48.125">
-          <caret line="220" column="40" selection-start-line="220" selection-start-column="40" selection-end-line="220" selection-end-column="40" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/role/object-random-generator.js">
+    <entry file="file://$PROJECT_DIR$/src/MenuGame.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/simple-touch-recognizer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/statistics.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-menu-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="171" column="31" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-mode-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/game-scene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="38" />
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/splash-scene.js">
+    <entry file="file://$PROJECT_DIR$/project.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state vertical-scroll-proportion="-2.1">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/game-opening-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/res/CloseSelected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/repeat-background-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.40625">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/res/CloseNormal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.16129">
-          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scene/play-scene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="222" column="51" selection-start-line="222" selection-start-column="51" selection-end-line="222" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="249" column="24" selection-start-line="249" selection-start-column="24" selection-end-line="249" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layer/play-layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8932384">
-          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/res/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
